@@ -8,5 +8,8 @@
     "start": "node bmi.js"
   },
   "author": "Mariana Pereira",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
